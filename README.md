@@ -1,70 +1,30 @@
-# Getting Started with Create React App
+# Gerenciador de Tarefas MUI
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+## Descrição
 
-## Available Scripts
+O **Gerenciador de Tarefas MUI** é um projeto simples de gerenciamento de tarefas desenvolvido em React, utilizando a biblioteca Material-UI para criar uma interface de usuário moderna e intuitiva. Este projeto foi criado com o objetivo de estudar a utilização do Material-UI, além de servir como uma ferramenta pessoal para organizar tarefas diárias no trabalho.
 
-In the project directory, you can run:
+## Funcionalidades
 
-### `npm start`
+- **Adição de Tarefas:** Adicione novas tarefas com nomes descritivos para manter um registro claro das suas atividades.
+- **Edição de Tarefas:** Edite o nome de uma tarefa existente para ajustar conforme necessário.
+- **Exclusão de Tarefas:** Remova tarefas indesejadas que já foram concluídas ou não são mais relevantes.
+- **Adição de Etapas:** Para cada tarefa, adicione etapas específicas para acompanhar o progresso e detalhes adicionais.
+- **Edição de Etapas:** Edite o nome de uma etapa para refletir mudanças ou atualizações.
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+## Objetivos do Projeto
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+Este projeto foi desenvolvido com os seguintes objetivos:
 
-### `npm test`
+1. **Estudo da Biblioteca Material-UI:** Explorar e compreender a utilização da biblioteca Material-UI para criar interfaces de usuário atraentes e responsivas.
+2. **Desenvolvimento do CRUD:** Criar um CRUD (Create, Read, Update, Delete) personalizado para exercitar a lógica de programação e compreender o funcionamento dessas operações.
+3. **Organização Pessoal:** Servir como uma ferramenta prática para o gerenciamento de tarefas diárias no ambiente de trabalho, proporcionando uma visão clara e organizada das atividades.
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+## Como Utilizar
 
-### `npm run build`
+1. Clone o repositório para o seu ambiente local.
+2. Instale as dependências utilizando o comando `npm install`.
+3. Inicie a aplicação com `npm start`.
+4. Acesse a aplicação no navegador utilizando o endereço `http://localhost:3000`.
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
-
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
-
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
-
-### `npm run eject`
-
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
-
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
-
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
-
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+Sinta-se à vontade para personalizar e expandir este projeto conforme suas necessidades de estudo e organização pessoal. Qualquer feedback é bem-vindo!
