@@ -1,0 +1,17 @@
+.card {
+  display: flex;
+  width: 30%;
+  padding: 10px 20px;
+  margin-top: 20px;
+  background: #7e40f6 !important;
+  cursor: pointer;
+}
+
+.title {
+  margin-left: 10px;
+}
+
+
+.actions {
+  margin-top: 10px;
+}
